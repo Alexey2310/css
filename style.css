@@ -1,0 +1,14 @@
+@import './null.css';
+.art {
+  margin: 1rem;
+  border:2px solid green;
+  padding: 2rem;
+}
+.par1 {
+  margin: 1rem;
+  border:2px solid red;
+  width: 120px;
+  height: 120px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
